@@ -604,16 +604,16 @@ section {
 }
 
 .pro-1_slide-1 {
-  background-image: url(/);
+  background-image: url(/img/briyani-pro/desk-1.png);
 }
 .pro-1_slide-2 {
-  background-image: url(/);
+  background-image: url(/img/briyani-pro/desk-2.png);
 }
 .pro-1_slide-3 {
-  background-image: url(/);
+  background-image: url(/img/briyani-pro/desk-3.png);
 }
 .pro-1_slide-4 {
-  background-image: url(/);
+  background-image: url(/img/briyani-pro/desk-4.png);
 }
 
 .pro-2_slide-1 {
@@ -652,14 +652,17 @@ section {
 /* *! CHANGING BACKGROUND IMAGES BY MEDIA QUERIES  */
 
 @media (max-width: 400px) {
-  .pro-3_slide-1 {
-    background-image: url(/img/Movies-pro/mobile-1.png);
+  .pro-1_slide-1 {
+    background-image: url(/img/briyani-pro/mobile-1.png);
   }
-  .pro-3_slide-2 {
-    background-image: url(/img//Movies-pro/mobile-2.png);
+  .pro-1_slide-2 {
+    background-image: url(/img/briyani-pro/mobile-2.png);
   }
-  .pro-3_slide-3 {
-    background-image: url(/img/Movies-pro/mobile-3.png);
+  .pro-1_slide-3 {
+    background-image: url(/img/briyani-pro/mobile-3.png);
+  }
+  .pro-1_slide-4 {
+    background-image: url(/img/briyani-pro/mobile-4.png);
   }
 
   .pro-2_slide-1 {
@@ -673,6 +676,16 @@ section {
   }
   .pro-2_slide-4 {
     background-image: url(/img/News-pro/desk-4.png);
+  }
+
+  .pro-3_slide-1 {
+    background-image: url(/img/Movies-pro/mobile-1.png);
+  }
+  .pro-3_slide-2 {
+    background-image: url(/img//Movies-pro/mobile-2.png);
+  }
+  .pro-3_slide-3 {
+    background-image: url(/img/Movies-pro/mobile-3.png);
   }
 
   .pro-4_slide-1 {
