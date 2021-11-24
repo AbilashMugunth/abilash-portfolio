@@ -304,6 +304,7 @@ section {
   background: #ffcc00;
   padding: 0.2rem 0.4rem;
   border: 1px solid #ffcc00;
+  text-decoration: none;
 }
 
 .resume:hover {
